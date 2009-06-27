@@ -1,0 +1,11 @@
+=Assignment 3
+
+==Make code from specs and use git!
+
+Each folder contains specs, a ruby file and a blank executable file for each one of the spec files. One of them is one that you submitted, so it will be easy to make pass. The others might be easier or harder depending on how good the tests are.
+
+Fill in the ruby file and the executable with as little code as possible just to make the tests pass. Use your own code, write new code, whatever. Be as lazy as you can be, but make the tests green.
+
+Also, post your code to github instead of putting it here. Just post your github user name to here when you’ve created your account.
+
+Have fun!
