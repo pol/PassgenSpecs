@@ -11,7 +11,7 @@ class Passgen
   private
   
   def random_alpha_string(len)
-    chars = ['a'..'z','A'..'Z'].map { |s| s.to_a }.flatten
+    chars = ['a'..'z','A'..'Z'].map { |s| [*s] }.flatten
     (1..len).to_a.map { chars[rand(chars.length - 1)] }.join
   end
 end
